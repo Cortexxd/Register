@@ -1,9 +1,9 @@
 {
     "prefixes": ["."],
-    "botToken": "DM5MDk2OTk2MzUzNTQwMTM3.YJEr-Q.XJPI_6Czxijcf89E1SQMg1Ph8uc",
-    "mongooseConnectURL":"mongodb+srv://sepreg123:sepreg123@cluster0.ssbql.mongodb.net/sepragis?retryWrites=true&w=majority",
+    "botToken": "",
+    "mongooseConnectURL":"",
     "developers": ["827865508615290921"],
-    "botStatus": "Vâs? 🖤 1843",
+    "botStatus": "Vâs 🖤 Cortex",
     "name_age": true,
     "süpheli":"838342604705628160",
     "embedColor": "RANDOM",
